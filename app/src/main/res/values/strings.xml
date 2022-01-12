@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">unconvert</string>
+    <string name="enter_amout_in_rs_below">Enter Amout in Rs below</string>
+    <string name="convert">Convert</string>
+    <string name="todo">TODO</string>
 </resources>

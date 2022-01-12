@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         b1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-//            toast message
+//            toast messages
                 Toast.makeText(getApplicationContext(),"processing...",Toast.LENGTH_LONG).show();
                 String rupees = e1.getText().toString();
                 double rs = Double.parseDouble(rupees);
